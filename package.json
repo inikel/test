@@ -1,0 +1,28 @@
+{
+  "name": "pengeprofile",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ppadmin@dev.azure.com/ppadmin/Pengeprofilen/_git/PengeProfilendkWebsite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.35.2",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.2",
+    "@types/react": "^17.0.14"
+  }
+}
