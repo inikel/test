@@ -1,7 +1,7 @@
 import { Container } from '@ui/blocks';
 import { Section, Intro__Container, Info, Pic, ButtonsWrap } from './styled';
 import NextImage from 'next/image';
-import { intro as introData } from '../../data/pages/index';
+import { intro as introData } from '@data/pages/index';
 import { Button } from '@ui/elements/Button';
 
 const Intro = () => {

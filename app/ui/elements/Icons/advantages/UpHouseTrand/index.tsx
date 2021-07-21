@@ -1,8 +1,14 @@
 import React from 'react';
 
-const UpHouseTrand = ({width = '100%', height = '100%'}) => {
+const UpHouseTrand = ({ width = '100%', height = '100%' }) => {
   return (
-    <svg width={width} height={height} viewBox='0 0 63 58' fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width={width}
+      height={height}
+      viewBox="0 0 63 58"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <path
         d="M1 25L31.5 1 62 25"
         stroke="#12395D"

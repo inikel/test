@@ -3,14 +3,17 @@ import { css } from 'styled-components';
 export const colors = {
   beige: '#FDE8E2',
   blueDark: '#12395D',
+  blueDarkText: '#1C395A',
   white: '#FFF',
   black: '#000',
+  aliceBlue: '#F5F8FC',
 };
 
 export const sizes = {
+  mobile: 375,
   tablet: 768,
   laptop: 1024,
-  desktop: 1320,
+  desktop: 1400,
 };
 
 export const fonts = {

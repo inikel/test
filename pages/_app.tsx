@@ -2,6 +2,7 @@ import Head from 'next/head';
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 import '@ui/scss/global.scss';
 import Header from '@components/Header';
+import Footer from '@components/Footer';
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -45,6 +46,7 @@ export default function MyApp({ Component, pageProps }) {
       <ThemeProvider theme={theme}>
         <Component {...pageProps} />
       </ThemeProvider>
+      <Footer />
     </>
   );
 }

@@ -12,12 +12,8 @@ export const Navbar = ({ visible }) => {
         </Link>
       ))}
       <Nav__Buttons>
-        <a href={navData.loginBtn.link}>
-          {navData.loginBtn.text}
-        </a>
-        <Button href={navData.signinBtn.link}>
-          {navData.signinBtn.text}
-        </Button>
+        <a href={navData.loginBtn.link}>{navData.loginBtn.text}</a>
+        <Button href={navData.signinBtn.link}>{navData.signinBtn.text}</Button>
       </Nav__Buttons>
     </Nav>
   );
