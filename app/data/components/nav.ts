@@ -23,12 +23,12 @@ const data = {
   ],
   loginBtn: {
     text: 'Log ind',
-    link: 'https://min.pengeprofilen.dk/login'
+    link: 'https://min.pengeprofilen.dk/login',
   },
   signinBtn: {
     text: 'Opret dig',
-    link: 'https://min.pengeprofilen.dk/signup'
-  }
+    link: 'https://min.pengeprofilen.dk/signup',
+  },
 };
 
 export default data;

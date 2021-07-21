@@ -1,8 +1,14 @@
 import React from 'react';
 
-const MoneyBag = ({width = '100%', height = '100%'}) => {
+const MoneyBag = ({ width = '100%', height = '100%' }) => {
   return (
-    <svg width={width} height={height} viewBox='0 0 63 78' fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width={width}
+      height={height}
+      viewBox="0 0 63 78"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <path
         d="M31.5 32.77v33.042M39.125 38.375c-3.7-2.033-15.358-3.558-15.358 3.456 0 8.387 14.803 5.427 14.803 12.829 0 7.401-9.622 6.846-16.283 4.439"
         stroke="#12395D"

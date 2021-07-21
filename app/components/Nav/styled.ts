@@ -52,7 +52,7 @@ export const Nav__Buttons = styled.div`
   @media (min-width: ${sizes.laptop}px) {
     display: block;
   }
-  
+
   @media (min-width: ${sizes.desktop}px) {
     margin-left: 38px;
   }

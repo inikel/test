@@ -67,7 +67,13 @@ export const Pic = styled(Intro__Section)`
 export const ButtonsWrap = styled.div`
   a:first-child {
     margin-right: 11px;
+    margin-bottom: 10px;
+
+    @media (min-width: ${sizes.mobile}px) {
+      margin-bottom: 0;
+    }
   }
+
   a {
     min-width: 157px;
   }

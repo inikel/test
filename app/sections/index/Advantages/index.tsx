@@ -1,4 +1,4 @@
-import { advantages as advantagesData } from '@data/pages';
+import { advantages as advantagesData } from '@data/pages/index';
 import { Advantages__Container, IconWrap } from './styled';
 import Icon from '@ui/elements/Icons/IconsGetter';
 import { Advantage, Info } from './styled';

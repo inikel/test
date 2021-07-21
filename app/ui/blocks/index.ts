@@ -12,6 +12,11 @@ export const Container = styled.div`
   margin-right: auto;
   max-width: ${sizes.desktop}px;
   width: 100%;
+
+  @media (min-width: ${sizes.desktop + 50}px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
 `;
 
 export const FlexContainer = styled(Container)`

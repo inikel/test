@@ -1,6 +1,12 @@
-const KeyInHand = ({width = '100%', height = '100%'}) => {
+const KeyInHand = ({ width = '100%', height = '100%' }) => {
   return (
-    <svg width={width} height={height} viewBox='0 0 63 63' fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg
+      width={width}
+      height={height}
+      viewBox="0 0 63 63"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
       <path
         d="M29.56 7.506a10.716 10.716 0 00-4.812-5.297 10.236 10.236 0 00-6.975-.98 10.47 10.47 0 00-6.013 3.775 11.055 11.055 0 00-2.356 6.84c0 2.491.832 4.906 2.356 6.84a10.47 10.47 0 006.013 3.775c2.365.509 4.828.163 6.975-.98a10.716 10.716 0 004.813-5.298h8.25l4.206 3.254 4.207-3.254h5.259l2.103-8.675H29.561z"
         stroke="#12395D"

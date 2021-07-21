@@ -18,7 +18,9 @@ const Header = () => {
       if (window.innerWidth > sizes.laptop) {
         setNavVisible(true);
       }
-      const headerheight = wrapperRef ? wrapperRef.current.offsetHeight : '80px';
+      const headerheight = wrapperRef
+        ? wrapperRef.current.offsetHeight
+        : '80px';
 
       document.body.style.paddingTop = `${headerheight}px`;
     }

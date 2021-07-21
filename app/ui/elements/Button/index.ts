@@ -4,7 +4,8 @@ import { fonts, colors, media, sizes } from '@ui/common';
 export const Button = styled.a`
   background-color: ${(props) =>
     props.themeWhite ? colors.white : colors.blueDark};
-  color: ${(props) => (props.themeWhite ? colors.blueDark : colors.white)} !important;
+  color: ${(props) =>
+    props.themeWhite ? colors.blueDark : colors.white} !important;
   font-weight: ${fonts.Raleway.weight['600']};
   font-size: 12px;
   line-height: 15px;
