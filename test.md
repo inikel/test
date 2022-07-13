@@ -3,7 +3,7 @@
 author1=0b7f425d-be9f-4fb3-996d-7d6c82f95246;
 {/variables}
 -->
-<!--{group}-->
+<!--{group closedGoal=123456}-->
 <!--{message type=MARKDOWN}-->
 
 # Урок 1. Собеседование
@@ -17,7 +17,7 @@ cd home/hello-wold
 <!--{/message}-->
 <!--{/group}-->
 
-<!--{group}-->
+<!--{group closedGoal=ddsddq1123}-->
 <!--{message type=DIALOG|authorId=<%author1%>}-->
 
 Привет, Кевин!
