@@ -1,4 +1,4 @@
-<!--{message type=FILL_THE_GAP|skills=[<%metamaskBasicSkill%>]|successAnswer=success text|wrongAnswer=wrong text|difficulty=EASY|nextButtonText=next btn text|title=test title unused|optionType=radio|isInteractiveBlockPromotion=true}-->
+<!--{message type=FILL_THE_GAP|skills=[]|successAnswer=success text|wrongAnswer=wrong text|difficulty=EASY|nextButtonText=next btn text|title=test title unused|optionType=radio|isInteractiveBlockPromotion=true}-->
 <!--{interactiveTitle}-->
 How we can call time technic?
 <!--{/interactiveTitle}-->
