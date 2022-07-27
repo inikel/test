@@ -14,10 +14,8 @@ author=<%author1%>
 In this task you shoukd right blank to fill 
 <!--{/description}-->
 <!--{code}-->
-```bash
 Famous time for managing focus calls <answerId>1</answerId> techinc
 goal id=<%goal1%>
-```
 <!--{/code}-->
 
 <!--{options}-->
