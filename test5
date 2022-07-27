@@ -1,0 +1,29 @@
+<!--{message type=BLANK|sourceCode=geth --identity <code>?</code> --networkid <code>?</code> --datadir <code>?</code> --mine --port <code>?</code> --allow-insecure-unlock --unlock <code>?</code> --password <code>?</code> --ipcpath <code>?</code>|skills=[<%metamaskBasicSkill%>]|successAnswer=success text|wrongAnswer=wrong text|difficulty=EASY|nextButtonText=next btn text|title=test title unused|optionType=radio|isInteractiveBlockPromotion=true}-->
+What is the array method for flipping an array (reverse)?
+
+<!--{option position=0}-->
+.map
+<!--{/option}-->
+
+<!--{option position=1}-->
+.reverse()
+<!--{/option}-->
+
+<!--{/message}-->
+
+<!--{message type=FILL_THE_GAP|skills=[<%metamaskBasicSkill%>]|successAnswer=success text|wrongAnswer=wrong text|difficulty=EASY|nextButtonText=next btn text|title=test title unused|optionType=radio|isInteractiveBlockPromotion=true}-->
+<!--{interactiveTitle}-->
+How we can call time technic?
+<!--{/interactiveTitle}-->
+<!--{interactiveDesctiption}-->
+In this task you shoukd right blank to fill 
+<!--{/interactiveDescription}-->
+<!--{fillTheGapCode}-->
+Famous time for managing focus calls <answerId>1</answerId> techinc
+<!--{/fillTheGapCode}-->
+
+<!--{fillTHeGapOptions}-->
+pomodoro=1;
+apple=2;
+orange=3;
+<!--{/message}-->
